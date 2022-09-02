@@ -1,0 +1,13 @@
+Se podria decir que los 3 lenguajes tienen metodos diferentes pero,
+al momento de trabajar con archivos cumplen la misma funcion, por ejemplo
+
+En JavaScript se utiliza un "fs.open("nombre_del_txt", "definir si vas a leer o escribir", (err, file) => {if (err) throw err;console.log(file);"
+
+
+En cambio en Python es mas facil ya que lo unico que se tiene que hacer es crear una archivo de txt con un "open" ya que el 
+lenguaje detecta si hay un archivo ya existente, y si ese no es el caso, el programa crea el archivo. Para editarlo solo se escribe
+ "f.write.('texto que se quiera agregar')".
+
+
+y por ultimo en Java el archivo se crea con un FileReader fr = new FileReader ("datos de tarjetas de credito.txt");
+            BufferedReader br =new BufferedReader(fr);

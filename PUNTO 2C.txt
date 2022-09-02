@@ -1,0 +1,10 @@
+Los tres codigos tienen una diferencia y es que varian en las lineas de codigo que 
+necesita cada uno para poder hacer lo codificado, en este caso leer, borrar informacion,
+ordenar, actualizarlo, copiarlo, dividrlo, cambiar el nombre o añadir informacion a los 
+archivos, aunque la diferencia de lineas no sea mucha en el caso de Javascript y Python, 
+la de Java tuvo una gran diferencia y tomo 15 lineas para poder lograrlo. Esto nos indica 
+que a pesar que los tres estaban haciendo lo mismo Java necesito mucho mas codigo para poder
+llegar a lo deseado. Tambien, el "runtime" de Javascript y Python fue de menos de 1 segundo 
+y el de Java tomo más de lo esperado. El "runtime" de Java fue de 16,99 segundos, una duracion 
+no muy efectiva. Teniendo esto en cuenta es más efectivo utilizar Python o Javascript para los 
+archivos que Java.
